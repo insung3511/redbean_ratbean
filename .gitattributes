@@ -1,0 +1,2 @@
+model_test/cheakpoint/lefms filter=lfs diff=lfs merge=lfs -text
+model_test/cheakpoint/lefms_model filter=lfs diff=lfs merge=lfs -text
